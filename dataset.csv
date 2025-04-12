@@ -20,7 +20,7 @@ CustomerID,Gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleL
 19,Male,0,No,No,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,19.2,19.2,No
 20,Female,0,No,No,3,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,90.05,286.25,Yes
 21,Male,0,No,Yes,39,Yes,No,DSL,No,Yes,No,No,No,Yes,One year,No,Credit card (automatic),69.5,2686.6,No
-22,Male,0,No,No,1,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.15,20.15,No
+22,Male,0,No,No,1,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.15,20.15,No
 23,Female,0,No,Yes,12,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.2,671.95,No
 24,Male,0,No,No,58,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),59.9,3505.1,No
 25,Female,0,No,No,49,Yes,No,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),44.2,2140.5,No
@@ -62,4 +62,4 @@ CustomerID,Gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleL
 61,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.35,20.35,No
 62,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.9,69.9,Yes
 63,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.2,20.2,No
-64,Female,0,No,No,1
+64,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.3,25.3,No
