@@ -23,7 +23,7 @@ In this context, *churning* is the loss of a customer for any reason at all.
 ## In my own words!! This might not be accurate.
 
 1. **Business Understanding** - Understand the needs of the business and therefore understand what the business is operating in and what kind of problem needs to solved.
-2. **Data collection** - Part of the workflow might be to collect data. While data needs to be collected from the business and recorded, it is also possible for the data scientist to collect more data from other sources. Additionall data can also be collected from databases (SQL) and from websites that host datasets, such as the Data Asset Exchange (DAX).
+2. **Data collection** - While some data needs to be collected from the business and recorded, it is also possible for the data scientist to collect more data from other sources. Additional data can also be collected from databases (SQL) and from websites that host datasets, such as the Data Asset Exchange (DAX). It is also possible to use Generative AI to generate plausible data that can expand the dataset and help with the training of the model.
 3. **Data Cleaning and Preparation** - Remove missing values, drop "Not a Number" NaN values. It might also be necessary to reorganise the data in a way that is more meaningful and easy to operate.
 4. **Exploratory Data Analysis (EDA)** - The first step when the data is obtained is to understand what it contains. Let's assume that like in the exercise you load the dataset with the Pandas library.
 	4.1 You want to understand how many elements it contains. *dataset.size*
